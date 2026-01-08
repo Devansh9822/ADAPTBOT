@@ -1,4 +1,5 @@
-# ADAPTBOT 🤖
+# ADAPTBOT – Autonomous Obstacle Avoidance and Line Following Robot
+
 
 ADAPTBOT is a **battery-powered autonomous mobile robot** developed as a **first complete hands-on robotics project**. The project focuses on implementing and integrating the core fundamentals of **mobile robotics**, including motor control, sensor-based navigation, embedded programming, and mechanical design.
 
